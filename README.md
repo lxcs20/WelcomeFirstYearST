@@ -1,13 +1,13 @@
-# WelcomeFirstYearST
+LX # WelcomeFirstYearST
 Hint to find Buddy
 
 run encriptionString.c
 
 or run encriptionString.exe
 
-Type a Secret Code.
+Type a Secret Code:
 
-(=;@Y;<@D:=;)
+=;@Y;<@D:=; 
 
 choose option 2 to Decrypted.
 
@@ -17,6 +17,6 @@ choose option 2 to Decrypted.
 
 ຕິດຕັ້ງ Library ບາງຕົວທີ່ຍັງບໍ່ທັນມີທີໃຊ້ໃນ main.py
 
-#ຣັນຢ່າງນ້ອຍ 2 ຄັ້ງ
+#ຣັນຢ່າງນ້ອຍ 2 ຄັ້ງ ຫຼື ຫຼາຍກວ່າ ສັງເກດຜົນຣັນ
 
 #Good Luck
