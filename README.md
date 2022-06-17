@@ -15,6 +15,8 @@ choose option 2 to Decrypted.
 --------------------------------------
 (if you want connect number run mian.py:)
 
+ຕິດຕັ້ງ Library ບາງຕົວທີ່ຍັງບໍ່ທັນມີທີໃຊ້ໃນ main.py
+
 #ຣັນຢ່າງນ້ອຍ 2 ຄັ້ງ
 
 #Good Luck
