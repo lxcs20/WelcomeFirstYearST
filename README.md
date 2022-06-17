@@ -8,6 +8,8 @@ or run encriptionString.exe
 Type a Secret Code:
 
 =;@Y;<@D:=; 
+ or 
+TIV\PWVO
 
 choose option 2 to Decrypted.
 
