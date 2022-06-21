@@ -1,3 +1,10 @@
+
+#Welcome
+
+Connect: 020 59809025
+
+--------------------------------------
+
 LX # WelcomeFirstYearST
 Hint to find Buddy
 
@@ -26,4 +33,4 @@ choose option 2 to Decrypted.
 #Good Luck
 
 
-->5980902_
+->59809025
