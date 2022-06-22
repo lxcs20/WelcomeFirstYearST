@@ -1,8 +1,6 @@
 
 #Welcome
 
-Connect: 020 59809025
-
 --------------------------------------
 
 LX # WelcomeFirstYearST
@@ -31,6 +29,3 @@ choose option 2 to Decrypted.
 #ຣັນຢ່າງນ້ອຍ 2 ຄັ້ງ ຫຼື ຫຼາຍກວ່າ ສັງເກດຜົນຣັນ
 
 #Good Luck
-
-
-->59809025
